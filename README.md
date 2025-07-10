@@ -9,7 +9,7 @@ Implementation Stages of YOLOv8:
 3. Implementation: Once completed, the resulting model (best.pt) can be integrated into the system. Using the image file, the system will display the egg detection results, and the model will quickly adapt each egg to its shell condition.
 
 ## 2. Objective
-Implement the YOLOv8 algorithm to detect and classify eggshell conditions into two categories: “Good” and “Cracked”.
+Implement the YOLOv8 algorithm to detect and classify eggshell conditions into two categories: “normal-egg” and “cracked-egg”.
 
 ## 3. Benefits
 1. Improve the efficiency of the egg selection process
